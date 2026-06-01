@@ -28,17 +28,17 @@ const govind = {
 };
 ```
 
----
+<br/>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)&nbsp;![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)&nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)&nbsp;![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)&nbsp;![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=4EAA25)&nbsp;![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=e6edf3)&nbsp;![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)&nbsp;![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8)&nbsp;![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933)&nbsp;![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=3ECF8E)&nbsp;![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)&nbsp;![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=e6edf3)&nbsp;![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=F7931E)&nbsp;![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=150458)&nbsp;![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=013243)&nbsp;![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=flat-square&logo=jupyter&logoColor=F37626)&nbsp;![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=e6edf3)&nbsp;![Railway](https://img.shields.io/badge/Railway-0d1117?style=flat-square&logo=railway&logoColor=e6edf3)&nbsp;![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)&nbsp;![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)&nbsp;![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=2088FF)&nbsp;![Stripe](https://img.shields.io/badge/Stripe-0d1117?style=flat-square&logo=stripe&logoColor=626CD9)
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" />&nbsp;<img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6" />&nbsp;<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp;<img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" />&nbsp;<img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25" />&nbsp;<img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=e6edf3" />&nbsp;<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;<img src="https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />&nbsp;<img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933" />&nbsp;<img src="https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />&nbsp;<img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" />&nbsp;<img src="https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=e6edf3" />&nbsp;<img src="https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />&nbsp;<img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=e6edf3" />&nbsp;<img src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=4DABCF" />&nbsp;<img src="https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626" />&nbsp;<img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=e6edf3" />&nbsp;<img src="https://img.shields.io/badge/Railway-0d1117?style=for-the-badge&logo=railway&logoColor=e6edf3" />&nbsp;<img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED" />&nbsp;<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" />&nbsp;<img src="https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088FF" />&nbsp;<img src="https://img.shields.io/badge/Stripe-0d1117?style=for-the-badge&logo=stripe&logoColor=626CD9" />
 
 </div>
 
----
+<br/>
 
 ## 📊 GitHub Stats
 
@@ -48,7 +48,7 @@ const govind = {
 
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="4">
+<table border="0" cellspacing="0" cellpadding="4" width="97%">
 <tr>
 <td align="center" width="25%">
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=venkatagovindneelapu&theme=github_dark" />
@@ -75,15 +75,7 @@ const govind = {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=venkatagovindneelapu&bg_color=0d1117&color=8b949e&line=58a6ff&point=f85149&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Graph" width="97%" />
 </div>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatagovindneelapu&layout=compact&theme=github_dark&hide_border=true&langs_count=10&card_width=860&bg_color=0d1117&title_color=e6edf3&text_color=8b949e" width="97%" />
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=venkatagovindneelapu&theme=gitdimmed&no-frame=true&margin-w=6&margin-h=4&column=7" width="97%" />
-</div>
-
----
+<br/>
 
 ## 🚀 Featured Projects
 
@@ -98,7 +90,7 @@ const govind = {
 
 </div>
 
----
+<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,21262d,30363d&height=90&section=footer&reversal=false" />
