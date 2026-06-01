@@ -82,16 +82,46 @@ const govind = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=venkatagovindneelapu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=venkatagovindneelapu&theme=tokyonight&hide_border=true" />
+
+<!-- Row 1: Stats + Streak side by side -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=venkatagovindneelapu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&show=reviews,discussions_started,prs_merged,prs_merged_percentage" />
+<img height="180em" src="https://streak-stats.demolab.com?user=venkatagovindneelapu&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" />
+
 </div>
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatagovindneelapu&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<!-- Row 2: Top languages (compact horizontal bar) -->
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatagovindneelapu&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=html,css,makefile&card_width=700" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=venkatagovindneelapu&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+
+<!-- Row 3: Activity graph full-width -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=venkatagovindneelapu&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=70a5fd&hide_border=true&custom_title=Govind's%20Contribution%20Activity" width="96%" />
+
+</div>
+
+<div align="center">
+
+<!-- Row 4: Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=venkatagovindneelapu&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8&column=7" width="96%" />
+
+</div>
+
+<div align="center">
+
+<!-- Row 5: Profile summary card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=venkatagovindneelapu&theme=tokyonight" width="96%" />
+
+</div>
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=venkatagovindneelapu&theme=tokyonight" height="160em" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=venkatagovindneelapu&theme=tokyonight" height="160em" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=venkatagovindneelapu&theme=tokyonight" height="160em" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=venkatagovindneelapu&theme=tokyonight&utcOffset=-5" height="160em" />
 </div>
 
 ---
@@ -109,22 +139,6 @@ const govind = {
 | [**Telecom Churn Prediction**](https://github.com/venkatagovindneelapu/TelecomChurmPrediction) | ML model predicting customer churn using classification algorithms | Python · scikit-learn · Jupyter | 🤖 |
 | [**Post-COVID Banking Risk**](https://github.com/venkatagovindneelapu/Post-COVID-Risk-Analysis-in-U.S.-Commercial-Banking-2023-2024-) | Risk analysis of U.S. commercial banks post-COVID (2023–2024) | Python · Jupyter · Finance | 🏦 |
 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=venkatagovindneelapu&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=venkatagovindneelapu&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
