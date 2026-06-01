@@ -43,15 +43,26 @@ const govind = {
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=venkatagovindneelapu&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&icon_color=58a6ff&title_color=e6edf3&text_color=8b949e&bg_color=0d1117" />&nbsp;<img height="175em" src="https://streak-stats.demolab.com?user=venkatagovindneelapu&theme=github-dark-blue&hide_border=true&mode=weekly&background=0d1117&ring=58a6ff&fire=f85149&currStreakLabel=e6edf3&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3" />
-</div>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatagovindneelapu&layout=compact&theme=github_dark&hide_border=true&langs_count=10&card_width=860&bg_color=0d1117&title_color=e6edf3&text_color=8b949e" />
+<table border="0" cellspacing="0" cellpadding="4">
+<tr>
+<td align="center" width="50%">
+<img width="100%" src="https://streak-stats.demolab.com?user=venkatagovindneelapu&theme=github-dark-blue&hide_border=true&mode=weekly&background=0d1117&ring=58a6ff&fire=f85149&currStreakLabel=e6edf3&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3" />
+</td>
+<td align="center" width="50%">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=venkatagovindneelapu&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&icon_color=58a6ff&title_color=e6edf3&text_color=8b949e&bg_color=0d1117" />
+</td>
+</tr>
+</table>
+
 </div>
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=venkatagovindneelapu&bg_color=0d1117&color=8b949e&line=58a6ff&point=f85149&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Graph" width="97%" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatagovindneelapu&layout=compact&theme=github_dark&hide_border=true&langs_count=10&card_width=860&bg_color=0d1117&title_color=e6edf3&text_color=8b949e" width="97%" />
 </div>
 
 <div align="center">
@@ -63,7 +74,24 @@ const govind = {
 </div>
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=venkatagovindneelapu&theme=github_dark" height="155em" />&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=venkatagovindneelapu&theme=github_dark" height="155em" />&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=venkatagovindneelapu&theme=github_dark" height="155em" />&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=venkatagovindneelapu&theme=github_dark&utcOffset=-5" height="155em" />
+
+<table border="0" cellspacing="0" cellpadding="4">
+<tr>
+<td align="center" width="25%">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=venkatagovindneelapu&theme=github_dark" />
+</td>
+<td align="center" width="25%">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=venkatagovindneelapu&theme=github_dark" />
+</td>
+<td align="center" width="25%">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=venkatagovindneelapu&theme=github_dark" />
+</td>
+<td align="center" width="25%">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=venkatagovindneelapu&theme=github_dark&utcOffset=-5" />
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
