@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Venkata%20Govind%20Neelapu&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Data%20Engineer&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,21262d,30363d&height=180&section=header&text=Venkata%20Govind%20Neelapu&fontSize=38&fontColor=e6edf3&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Founder&descAlignY=58&descSize=16&descColor=8b949e" />
 </div>
 
 <div align="center">
   <a href="mailto:venkatagovindneelapu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/Gmail-161b22?style=flat-square&logo=gmail&logoColor=f85149" />
+  </a>&nbsp;
   <a href="https://tailorlycv.com">
-    <img src="https://img.shields.io/badge/TailorlyCv-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=venkatagovindneelapu&style=for-the-badge&color=blueviolet" />
+    <img src="https://img.shields.io/badge/tailorlycv.com-161b22?style=flat-square&logo=vercel&logoColor=58a6ff" />
+  </a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=venkatagovindneelapu&style=flat-square&color=21262d&label=profile+views&abbreviated=true" />
 </div>
 
 <br/>
@@ -18,63 +18,24 @@
 
 ```typescript
 const govind = {
-  name:       "Venkata Govind Neelapu",
-  role:       "Full-Stack Developer & AI Builder",
-  location:   "Atlanta, GA 🇺🇸",
-  focus:      ["Web Apps", "AI/ML Systems", "Data Engineering"],
-  currently:  "Building TailorlyCv — AI-powered career platform",
-  education:  "Computer Science",
-  interests:  ["LLMs", "Agentic Systems", "Data Visualization", "Security Research"],
-  funFact:    "666+ GitHub contributions and counting 🔥"
+  name:      "Venkata Govind Neelapu",
+  role:      "Full-Stack Developer & AI Builder",
+  location:  "Atlanta, GA 🇺🇸",
+  building:  ["Tailorly", "Runtime42", "Agenlytics", "Confessly Inc."],
+  focus:     ["Agentic AI Systems", "Full-Stack Web Apps", "Data Engineering"],
+  interests: ["LLMs", "Browser Automation", "Security Research", "Data Viz"],
+  stats:     { contributions: 741, repos: 28, streak: "11 weeks 🔥" }
 };
 ```
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack
 
-### Languages
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-</div>
+<div align="center">
 
-### Frontend
-<div>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</div>
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)&nbsp;![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)&nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)&nbsp;![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)&nbsp;![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=4EAA25)&nbsp;![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=e6edf3)&nbsp;![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)&nbsp;![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8)&nbsp;![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933)&nbsp;![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=3ECF8E)&nbsp;![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)&nbsp;![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=e6edf3)&nbsp;![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=F7931E)&nbsp;![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=150458)&nbsp;![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=013243)&nbsp;![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=flat-square&logo=jupyter&logoColor=F37626)&nbsp;![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=e6edf3)&nbsp;![Railway](https://img.shields.io/badge/Railway-0d1117?style=flat-square&logo=railway&logoColor=e6edf3)&nbsp;![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)&nbsp;![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)&nbsp;![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=2088FF)&nbsp;![Stripe](https://img.shields.io/badge/Stripe-0d1117?style=flat-square&logo=stripe&logoColor=626CD9)
 
-### Backend & Database
-<div>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
-</div>
-
-### AI / ML & Data
-<div>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</div>
-
-### DevOps & Tools
-<div>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
 ---
@@ -82,46 +43,27 @@ const govind = {
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<!-- Row 1: Stats + Streak side by side -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=venkatagovindneelapu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&show=reviews,discussions_started,prs_merged,prs_merged_percentage" />
-<img height="180em" src="https://streak-stats.demolab.com?user=venkatagovindneelapu&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" />
-
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=venkatagovindneelapu&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&icon_color=58a6ff&title_color=e6edf3&text_color=8b949e&bg_color=0d1117" />&nbsp;<img height="175em" src="https://streak-stats.demolab.com?user=venkatagovindneelapu&theme=github-dark-blue&hide_border=true&mode=weekly&background=0d1117&ring=58a6ff&fire=f85149&currStreakLabel=e6edf3&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3" />
 </div>
 
 <div align="center">
-
-<!-- Row 2: Top languages (compact horizontal bar) -->
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatagovindneelapu&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=html,css,makefile&card_width=700" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatagovindneelapu&layout=compact&theme=github_dark&hide_border=true&langs_count=10&card_width=860&bg_color=0d1117&title_color=e6edf3&text_color=8b949e" />
 </div>
 
 <div align="center">
-
-<!-- Row 3: Activity graph full-width -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=venkatagovindneelapu&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=70a5fd&hide_border=true&custom_title=Govind's%20Contribution%20Activity" width="96%" />
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=venkatagovindneelapu&bg_color=0d1117&color=8b949e&line=58a6ff&point=f85149&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Graph" width="97%" />
 </div>
 
 <div align="center">
-
-<!-- Row 4: Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=venkatagovindneelapu&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8&column=7" width="96%" />
-
+<img src="https://github-profile-trophy.vercel.app/?username=venkatagovindneelapu&theme=gitdimmed&no-frame=true&margin-w=6&margin-h=4&column=7" width="97%" />
 </div>
 
 <div align="center">
-
-<!-- Row 5: Profile summary card -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=venkatagovindneelapu&theme=tokyonight" width="96%" />
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=venkatagovindneelapu&theme=github_dark" width="97%" />
 </div>
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=venkatagovindneelapu&theme=tokyonight" height="160em" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=venkatagovindneelapu&theme=tokyonight" height="160em" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=venkatagovindneelapu&theme=tokyonight" height="160em" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=venkatagovindneelapu&theme=tokyonight&utcOffset=-5" height="160em" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=venkatagovindneelapu&theme=github_dark" height="155em" />&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=venkatagovindneelapu&theme=github_dark" height="155em" />&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=venkatagovindneelapu&theme=github_dark" height="155em" />&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=venkatagovindneelapu&theme=github_dark&utcOffset=-5" height="155em" />
 </div>
 
 ---
@@ -130,21 +72,18 @@ const govind = {
 
 <div align="center">
 
-| 🔗 Project | 📋 Description | 🛠 Stack | ⭐ |
-|-----------|---------------|---------|---|
-| [**Tailorly — AI Career Workspace**](https://tailorlycv.com) | Chat-first agentic career platform — resume tailoring, ATS scoring, job matching & auto-apply. The "Cursor for careers." | Next.js · Supabase · OpenAI · Stripe | 🔥 Live |
-| [**Runtime42 — Vibe Coding Tool**](https://github.com/venkatagovindneelapu) | AI-powered coding companion built for vibe-driven development — write, run, and ship faster | TypeScript · AI · Developer Tools | ⚡ |
-| [**Agenlytics — AI Data Analyst**](https://github.com/venkatagovindneelapu) | Conversational AI agent that analyzes your data, generates insights, and builds dashboards from plain English | Python · LLMs · Data Viz | 📊 |
-| [**Confessly**](https://github.com/venkatagovindneelapu) | The company behind it all — Confessly, Inc. (Delaware C-Corp) is the umbrella powering Tailorly and beyond | Next.js · Stripe Atlas · Vercel | 🏢 |
+| Project | Description | Stack | Activity |
+|---------|-------------|-------|----------|
+| [**Tailorly — AI Career Workspace**](https://tailorlycv.com) | Chat-first agentic career platform. Resume tailoring, ATS scoring, job matching & auto-apply. *"Cursor for careers."* | Next.js · Supabase · OpenAI · Stripe | 🔥 Live · 400+ commits |
+| [**Runtime42 — Vibe Coding Tool**](https://github.com/venkatagovindneelapu) | AI coding companion built for vibe-driven development — write, iterate, and ship at the speed of thought | TypeScript · AI · Developer Tools | ⚡ In Dev |
+| [**Agenlytics — AI Data Analyst**](https://github.com/venkatagovindneelapu) | Conversational AI agent that analyzes data, surfaces insights, and builds dashboards from plain English | Python · LLMs · Pandas · Data Viz | 📊 In Dev |
+| [**Confessly Inc.**](https://github.com/venkatagovindneelapu) | Delaware C-Corp · The parent company behind Tailorly, Runtime42, and Agenlytics | Stripe Atlas · Vercel · Next.js | 🏢 Incorporated |
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-  
-  **💬 Let's connect and build something great together!**
-  
-  [![Gmail](https://img.shields.io/badge/venkatagovindneelapu@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:venkatagovindneelapu@gmail.com)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,21262d,30363d&height=90&section=footer&reversal=false" />
+  <sub>Built in Atlanta · Shipping daily · Open to collabs</sub>
 </div>
