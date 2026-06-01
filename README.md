@@ -3,11 +3,11 @@
 </div>
 
 <div align="center">
-  <a href="mailto:venkatagovindneelapu@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&logoSize=auto" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/venkatgovindneelapu/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&logoSize=auto" /></a>&nbsp;
-  <a href="https://venkatagovindneelapu.tailorlycv.com/"><img src="https://img.shields.io/badge/Tailorly%20Profile-0d1117?style=for-the-badge&logo=vercel&logoColor=3ECF8E&logoSize=auto" /></a>&nbsp;
-  <a href="https://tailorlycv.com"><img src="https://img.shields.io/badge/tailorlycv.com-0d1117?style=for-the-badge&logo=rocket&logoColor=58a6ff&logoSize=auto&label=🚀%20Startup" /></a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=venkatagovindneelapu&style=for-the-badge&color=0d1117&label=VIEWS&abbreviated=true" />
+  <a href="mailto:venkatagovindneelapu@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/venkatgovindneelapu/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>&nbsp;
+  <a href="https://venkatagovindneelapu.tailorlycv.com/"><img src="https://img.shields.io/badge/My%20Tailorly-0d1117?style=for-the-badge&logo=bookstack&logoColor=3ECF8E" /></a>&nbsp;
+  <a href="https://tailorlycv.com"><img src="https://img.shields.io/badge/tailorlycv.com%20🚀-0d1117?style=for-the-badge&logo=vercel&logoColor=58a6ff" /></a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=venkatagovindneelapu&style=for-the-badge&color=0d1117&label=VIEWS" />
 </div>
 
 <br/>
@@ -53,7 +53,7 @@ const govind = {
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=venkatagovindneelapu&bg_color=0d1117&color=8b949e&line=58a6ff&point=f85149&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Graph" width="97%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=venkatagovindneelapu&bg_color=0d1117&color=8b949e&line=58a6ff&point=f85149&area=true&area_color=58a6ff&hide_border=true&custom_title=Monthly%20Contribution%20Graph&interval=month" width="97%" />
 </div>
 
 <br/>
