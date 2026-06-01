@@ -3,13 +3,11 @@
 </div>
 
 <div align="center">
-  <a href="mailto:venkatagovindneelapu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-161b22?style=flat-square&logo=gmail&logoColor=f85149" />
-  </a>&nbsp;
-  <a href="https://tailorlycv.com">
-    <img src="https://img.shields.io/badge/tailorlycv.com-161b22?style=flat-square&logo=vercel&logoColor=58a6ff" />
-  </a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=venkatagovindneelapu&style=flat-square&color=21262d&label=profile+views&abbreviated=true" />
+  <a href="mailto:venkatagovindneelapu@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&logoSize=auto" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/venkatgovindneelapu/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&logoSize=auto" /></a>&nbsp;
+  <a href="https://venkatagovindneelapu.tailorlycv.com/"><img src="https://img.shields.io/badge/Tailorly%20Profile-0d1117?style=for-the-badge&logo=vercel&logoColor=3ECF8E&logoSize=auto" /></a>&nbsp;
+  <a href="https://tailorlycv.com"><img src="https://img.shields.io/badge/tailorlycv.com-0d1117?style=for-the-badge&logo=rocket&logoColor=58a6ff&logoSize=auto&label=🚀%20Startup" /></a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=venkatagovindneelapu&style=for-the-badge&color=0d1117&label=VIEWS&abbreviated=true" />
 </div>
 
 <br/>
@@ -32,7 +30,7 @@ const govind = {
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div align="center" style="line-height:0.5">
 
 <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB&logoSize=auto" />&nbsp;<img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6&logoSize=auto" />&nbsp;<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&logoSize=auto" />&nbsp;<img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1&logoSize=auto" />&nbsp;<img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25&logoSize=auto" />&nbsp;<img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=e6edf3&logoSize=auto" />&nbsp;<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB&logoSize=auto" />&nbsp;<img src="https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8&logoSize=auto" />&nbsp;<img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933&logoSize=auto" />&nbsp;<img src="https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E&logoSize=auto" />&nbsp;<img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1&logoSize=auto" />&nbsp;<img src="https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=e6edf3&logoSize=auto" />&nbsp;<img src="https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E&logoSize=auto" />&nbsp;<img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=e6edf3&logoSize=auto" />&nbsp;<img src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=4DABCF&logoSize=auto" />&nbsp;<img src="https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626&logoSize=auto" />&nbsp;<img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=e6edf3&logoSize=auto" />&nbsp;<img src="https://img.shields.io/badge/Railway-0d1117?style=for-the-badge&logo=railway&logoColor=e6edf3&logoSize=auto" />&nbsp;<img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED&logoSize=auto" />&nbsp;<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032&logoSize=auto" />&nbsp;<img src="https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088FF&logoSize=auto" />&nbsp;<img src="https://img.shields.io/badge/Stripe-0d1117?style=for-the-badge&logo=stripe&logoColor=626CD9&logoSize=auto" />
 
@@ -43,13 +41,11 @@ const govind = {
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=venkatagovindneelapu&theme=github_dark" width="97%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=venkatagovindneelapu&theme=transparent" width="97%" />
 </div>
 
 <div align="center">
-
-<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=venkatagovindneelapu&theme=github_dark" /><img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=venkatagovindneelapu&theme=github_dark" /><img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=venkatagovindneelapu&theme=github_dark" /><img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=venkatagovindneelapu&theme=github_dark&utcOffset=-5" />
-
+<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=venkatagovindneelapu&theme=transparent" /><img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=venkatagovindneelapu&theme=transparent" /><img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=venkatagovindneelapu&theme=transparent" /><img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=venkatagovindneelapu&theme=transparent&utcOffset=-5" />
 </div>
 
 <div align="center">
