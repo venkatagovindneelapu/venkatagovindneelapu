@@ -132,12 +132,10 @@ const govind = {
 
 | 🔗 Project | 📋 Description | 🛠 Stack | ⭐ |
 |-----------|---------------|---------|---|
-| [**TailorlyCv**](https://tailorlycv.com) | AI-powered career platform — chat-first resume tailoring, ATS scoring & job matching | Next.js · Supabase · OpenAI · Stripe | 🔥 Live |
-| [**DataAnalysts v2.1.0**](https://github.com/venkatagovindneelapu/dataanalysts_v2.1.0) | Robust Python library for data cleaning, transformation & visualization — a pandas/NumPy powerhouse | Python · Pandas · NumPy | 🐍 |
-| [**DataAnalysts Case Study**](https://github.com/venkatagovindneelapu/dataanalysts-case-study) | Benchmarking `dataanalysts` vs pandas & NumPy across real-world data processing tasks | Python · Jupyter | 📊 |
-| [**Google Trends Dashboard**](https://github.com/venkatagovindneelapu/GoogleTrendsDashboard) | Interactive dashboard for trend analysis and keyword visualization over time | Python · Data Viz | 📈 |
-| [**Telecom Churn Prediction**](https://github.com/venkatagovindneelapu/TelecomChurmPrediction) | ML model predicting customer churn using classification algorithms | Python · scikit-learn · Jupyter | 🤖 |
-| [**Post-COVID Banking Risk**](https://github.com/venkatagovindneelapu/Post-COVID-Risk-Analysis-in-U.S.-Commercial-Banking-2023-2024-) | Risk analysis of U.S. commercial banks post-COVID (2023–2024) | Python · Jupyter · Finance | 🏦 |
+| [**Tailorly — AI Career Workspace**](https://tailorlycv.com) | Chat-first agentic career platform — resume tailoring, ATS scoring, job matching & auto-apply. The "Cursor for careers." | Next.js · Supabase · OpenAI · Stripe | 🔥 Live |
+| [**Runtime42 — Vibe Coding Tool**](https://github.com/venkatagovindneelapu) | AI-powered coding companion built for vibe-driven development — write, run, and ship faster | TypeScript · AI · Developer Tools | ⚡ |
+| [**Agenlytics — AI Data Analyst**](https://github.com/venkatagovindneelapu) | Conversational AI agent that analyzes your data, generates insights, and builds dashboards from plain English | Python · LLMs · Data Viz | 📊 |
+| [**Confessly**](https://github.com/venkatagovindneelapu) | The company behind it all — Confessly, Inc. (Delaware C-Corp) is the umbrella powering Tailorly and beyond | Next.js · Stripe Atlas · Vercel | 🏢 |
 
 </div>
 
